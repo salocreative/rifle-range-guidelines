@@ -2,7 +2,7 @@
 
 The brand guidelines for Rifle Range, on the Hurdcott Estate, Wiltshire. Designed by Salo Creative.
 
-Live at https://toby-felton.github.io/rifle-range-guidelines/
+Live at https://salocreative.github.io/rifle-range-guidelines/
 
 ## What's here
 
